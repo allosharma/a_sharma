@@ -1,10 +1,6 @@
 # My Personal Website
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
-
-*Minimal is a Jekyll theme for GitHub Pages. You can [click here to view](https://allosharma.github.io/a_sharma/), or even [use it today](#usage).*
-
-![Thumbnail of Minimal](thumbnail.png)
+You can [click here to view](https://allosharma.github.io/a_sharma/), or even [use it today](#usage).*
 
 ## Usage
 
